@@ -1,9 +1,17 @@
 # osu-tool #
 A multitool for all things osu! (And more!)
 
-**About**
-
+About
+-----------------
 Osu!tool was made by and is updated by NaruS.
+
+The project was started in 2018 in the month of September-However the project came to life after I realized Osu!MassExtractor would be pointless for a large group of people if I planned to release(which I didn't)
+
+Osu!Tool allows to:
+Track their and others status (Across all gamemodes: Todo
+Track total
+
+
 
 Users are not allowed to use this program for malintent. This rule goes for plugin/addon creators as well
 
